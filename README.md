@@ -18,4 +18,4 @@ This section is more detailed and provides some additional information about how
 a prime modulus to ensure security and correctness
 
 ## Website
-The finished cipher implementation is hosted at: https://lwe.visual.blue
+The finished cipher implementation is hosted at: https://lwe.royathan.com
